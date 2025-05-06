@@ -18,4 +18,10 @@ This is a simple web-based command terminal interface, where you can input comma
 
 ---
 
-Enjoy exploring the terminal!
+# Clone the repository (console)
+
+- Step 1: 
+Make sure git is installed
+- Step 2: Clone the repository into an empty folder using the following command in the terminal: 
+`git clone https://github.com/CollinWimberly/console-portfolio.git .` 
+- Step 3: Done!
