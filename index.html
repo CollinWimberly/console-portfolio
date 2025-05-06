@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Collin Wimberly - Terminal</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="version-bar" title="Type 'help' for a list of commands">
+    CollinOS Terminal v1.0.0
+  </div>      
+  <div id="terminal">
+    <!-- Progress bar container (hidden by default) -->
+    <div class="progress-container">
+      <div class="progress-bar"></div>
+    </div>
+
+    <!-- Output area where command results will appear -->
+    <div id="output"></div>
+
+    <!-- Input field for user to type commands -->
+    <div class="input-line">
+      <span class="prompt">&gt;</span>
+      <input type="text" id="commandInput" autofocus />
+    </div>
+  </div>
+  
+  <script src="data.js"></script>
+  <script src="commands.js"></script>
+  <script src="main.js"></script>
+</body>
+</html>
