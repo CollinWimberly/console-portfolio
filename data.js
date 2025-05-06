@@ -9,17 +9,17 @@ const projects = [
   {
     name: "Dev Dashboard",
     description: "A productivity suite for developers (task manager, pomodoro, notes)",
-    link: "https://github.com/yourusername/dev-dashboard"
+    link: "err: no active repo"
   },
   {
     name: "Terminal Portfolio",
     description: "This very site—built with vanilla JS to simulate a terminal",
-    link: "https://github.com/yourusername/terminal-portfolio"
+    link: "https://github.com/CollinWimberly/console-portfolio"
   },
   {
     name: "Pokemon Gamble",
     description: "Browser based card pack simulator built with React, Node.js, and Vite (team project)",
-    link: "https://github.com/yourusername/terminal-portfolio"
+    link: "https://github.com/68001775/pokemonGame"
   }
 
 ];
